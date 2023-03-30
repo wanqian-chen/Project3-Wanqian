@@ -1,7 +1,7 @@
 # Individual-Project3
 
 ## Project Description
-This is a project through which you can get time or date of some countries.
+This is a serverless application through which you can get time or date of some countries.
 
 ## Usage
 
